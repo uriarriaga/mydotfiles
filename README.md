@@ -26,11 +26,11 @@ source .bash_profile
 ## Probanndo que funciona
 
 Si todo salio correctamente los comandos:
- 
- ´´´
- la
- ```
-  y 
+
+´´´
+la
+```
+y 
   
 ```
 ls -a
