@@ -27,7 +27,7 @@ source .bash_profile
 
 Si todo salio correctamente los comandos:
 
-´´´
+```
 la
 ```
 y 
