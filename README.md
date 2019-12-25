@@ -2,7 +2,7 @@
 
 El objetivo de este repositorio es mantener actulizados mis archivos dotfiles y facilmente descargarlos cuando sea necesario; asi como tenerlo en español para ficilitar su uso a los Hispano-hablantes.
 
-## Getting Started
+## Como empezar
 
 Para empezar a usar este repositorio necesitas tener unstalado git en tu CLI; este link explica como realizar esta tarea: 
 https://www.atlassian.com/git/tutorials/install-git
@@ -12,35 +12,32 @@ Con git instalado ejecuta el siguiente commando:
 git clone https://github.com/Momoyactly/mydotfiles.git
 ```
 
-### Prerequisites
+### Instalación
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Para empezar usar los dotfiles solo hay copiar el archivo .bash_profile a tu Directorio HOME. 
+Dentro la nueva carpeta ejecuta los siguientes comandos:
 
 ```
-Give the example
+cd .bash_profile ~
+cd
+source .bash_profile
 ```
 
-And repeat
+## Probanndo que funciona
 
+Si todo salio correctamente los comandos:
+ 
+ ´´´
+ la
+ ```
+  y 
+  
 ```
-until finished
+ls -a
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+deben de arrojar el mismo resultado.
 
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
