@@ -19,6 +19,7 @@ alias gc="git commit -m"
 alias gfc="git commit -m $(date +"%Y-%m-%d:%H:%M")"
 alias ga="git add"
 alias gs="git status"
+alias gf="bash ~/Dev/mydotfiles/fastGitPush.sh"
 
 alias ic=ibmcloud
 
