@@ -4,7 +4,13 @@ El objetivo de este repositorio es mantener actulizados mis archivos dotfiles y 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para empezar a usar este repositorio necesitas tener unstalado git en tu CLI; este link explica como realizar esta tarea: 
+https://www.atlassian.com/git/tutorials/install-git
+
+Con git instalado ejecuta el siguiente commando:
+```
+git clone https://github.com/Momoyactly/mydotfiles.git
+```
 
 ### Prerequisites
 
