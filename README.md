@@ -1,6 +1,6 @@
 # Mydotfiles
 
-El objetivo de este repositorio es mantener actulizados mis archivos dotfiles y facilmente descargarlos cuando sea necesario; asi como tenerlo en español para ficilitar su uso a los Hispano-hablantes.
+El objetivo de este repositorio es mantener actulizados mis archivos dotfiles y facilmente descargarlos cuando sea necesario; asi como tenerlo en español para facilitar su uso a los Hispano-hablantes.
 
 ## Como empezar
 
