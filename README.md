@@ -1,6 +1,6 @@
-# Project Title
+# Mydotfiles
 
-One Paragraph of project description goes here
+El objetivo de esta repositorio es mantener actulizados mis archivos dotfiles y facilmente descargarlos cuando sea necesario
 
 ## Getting Started
 
