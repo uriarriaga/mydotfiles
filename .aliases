@@ -22,6 +22,7 @@ alias gs="git status"
 alias gf="bash ~/Dev/mydotfiles/fastGitPush.sh"
 
 alias ic=ibmcloud
+alias sshpi="ssh pi@depa-dnkrvqmqhr.dynamic-m.com"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
