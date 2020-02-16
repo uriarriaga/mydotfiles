@@ -12,17 +12,17 @@ alias home="/Users/joarriag/"
 # Shortcuts
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias d="cd ~/Dev"
+alias d="cd ~/dev"
 alias g="git"
 alias gp="git push"
 alias gc="git commit -m"
 alias gfc="git commit -m $(date +"%Y-%m-%d:%H:%M")"
 alias ga="git add"
 alias gs="git status"
-alias gf="bash ~/Dev/mydotfiles/fastGitPush.sh"
+alias gf="bash ~/dev/mydotfiles/fastGitPush.sh"
 
 alias ic=ibmcloud
-alias sshpi="ssh pi@depa-dnkrvqmqhr.dynamic-m.com"
+alias sshpi="ssh joarriag@depa-dnkrvqmqhr.dynamic-m.com"
 alias sshcore="ssh joarriag@10.88.166.1;C15c0"
 alias sshgw="ssh joarriag@10.88.166.208"
 
