@@ -23,6 +23,7 @@ alias gf="bash ~/dev/mydotfiles/fastGitPush.sh"
 
 alias ic=ibmcloud
 alias sshpi="ssh joarriag@depa-dnkrvqmqhr.dynamic-m.com"
+alias sshpil="ssh joarriag@192.168.30.16"
 alias sshcore="ssh joarriag@10.88.166.1;C15c0"
 alias sshgw="ssh joarriag@10.88.166.208"
 
