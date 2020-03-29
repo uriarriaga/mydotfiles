@@ -24,7 +24,7 @@ alias gf="bash ~/dev/mydotfiles/fastGitPush.sh"
 alias ic=ibmcloud
 alias sshpi="ssh joarriag@depa-dnkrvqmqhr.dynamic-m.com"
 alias sshpil="ssh joarriag@192.168.30.16"
-alias sshcore="ssh joarriag@10.88.166.1;C15c0"
+alias sshcore="ssh joarriag@10.88.166.1"
 alias sshgw="ssh joarriag@10.88.166.208"
 
 # Detect which `ls` flavor is in use
@@ -37,8 +37,8 @@ else # macOS `ls`
 fi
 
 #Python3 in CLI
-alias python="python3"
-alias pip="pip3"
+#alias python="python3"
+#alias pip="pip3"
 
 # List all files colorized in long format
 alias l="ls -lF ${colorflag}"
