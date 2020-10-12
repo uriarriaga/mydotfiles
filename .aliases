@@ -12,7 +12,7 @@ alias home="/Users/joarriag/"
 # Shortcuts
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias d="cd ~/dev"
+alias d="cd ~/Dev"
 alias g="git"
 alias gp="git push"
 alias gc="git commit -m"
